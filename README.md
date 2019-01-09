@@ -1,4 +1,6 @@
 # Maxine VM: A Metacircular VM for Java in Java
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzakkak%2FMaxine-VM.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzakkak%2FMaxine-VM?ref=badge_shield)
+
 
 #### Updates
 
@@ -82,3 +84,7 @@ external collaborations.
 
 For more information please visit
 the [Maxine VM's wiki](https://github.com/beehive-lab/Maxine-VM/wiki)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzakkak%2FMaxine-VM.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzakkak%2FMaxine-VM?ref=badge_large)
